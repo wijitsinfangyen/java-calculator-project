@@ -1,15 +1,16 @@
-# Java Calculator Project
+# โปรแกรมเครื่องคิดเลขด้วยภาษา Java
 
-## Project Description
-Simple calculator program using Java.
-This project is developed as a group assignment using GitHub workflow.
+## รายละเอียดโครงงาน
+โครงงานนี้เป็นโปรแกรมเครื่องคิดเลขอย่างง่าย
+พัฒนาด้วยภาษา Java และทำงานร่วมกันผ่าน GitHub
 
-## Features
-- Number buttons (0-9)
-- Operators (+ - * / %)
-- Show calculation process
-- Show result
+## ความสามารถของโปรแกรม
+- ปุ่มตัวเลข 0-9
+- ตัวดำเนินการ + - * / %
+- แสดงกระบวนการคำนวณ
+- แสดงผลลัพธ์
 
-## Team Workflow
-- Git Flow (main, develop, feature branches)
-- Pull Request for code review
+## รูปแบบการทำงาน
+- main: โค้ดที่เสร็จสมบูรณ์
+- develop: รวมงานจากสมาชิก
+- feature: งานของสมาชิกแต่ละคน
